@@ -1,5 +1,10 @@
 # Car Rental System
-##Adminpage
+
+## Homepage
+
+![Screenshot (3)](https://github.com/user-attachments/assets/d0c96c50-9e5c-4c70-956a-39bf71c24eb2)
+
+## Adminpage
 
 ![Screenshot (4)](https://github.com/user-attachments/assets/60935243-003c-4376-b1ba-d1f768985444)
 
@@ -12,10 +17,10 @@
 ![Screenshot (8)](https://github.com/user-attachments/assets/96d7dce1-341d-4c8c-bc8a-bd90564b7878)
 
 
-##Homepage
-![Screenshot (3)](https://github.com/user-attachments/assets/d0c96c50-9e5c-4c70-956a-39bf71c24eb2)
-##Customerpage
+## Customerpage
+
 ![Screenshot (2)](https://github.com/user-attachments/assets/8995a843-7dc2-4367-9b50-6086d63f7d86)
+
 ![Screenshot (9)](https://github.com/user-attachments/assets/81a037cf-e434-492d-a9a4-f5c6bda0ccc3)
 
 ## Description
